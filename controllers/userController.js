@@ -110,3 +110,11 @@ export const updateUserResume = async (req, res) => {
 
     }
 }
+
+   
+
+   
+
+    
+      
+
